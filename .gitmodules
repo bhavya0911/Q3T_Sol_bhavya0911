@@ -1,0 +1,39 @@
+[submodule "Custom-Lending"]
+	path = Capstone/custom-lending
+	url = https://github.com/bhavya0911/Custom-Lending
+
+[submodule "WBA_PreReq"]
+	path = Pre_Req WBA
+	url = https://github.com/bhavya0911/WBA_PreReq
+
+[submodule "WBA_Req"]
+	path = Req WBA
+	url = https://github.com/bhavya0911/WBA_Req
+
+[submodule "Solana-Client-Interaction"]
+	path = Week 1/Client Interaction
+	url = https://github.com/bhavya0911/Solana-Client-Interaction
+
+[submodule "Amm"]
+	path = Week 2/amm/amm
+	url = https://github.com/bhavya0911/Amm
+
+[submodule "Escrow"]
+	path = Week 2/escrow/escrow
+	url = https://github.com/bhavya0911/Escrow
+
+[submodule "Vault"]
+	path = Week 2/vault/vault
+	url = https://github.com/bhavya0911/Vault
+
+[submodule "Staking"]
+	path = Week 3/staking/staking
+	url = https://github.com/bhavya0911/Staking
+
+[submodule "Dice_rng"]
+	path = Week 4/rng/rng
+	url = https://github.com/bhavya0911/Dice_rng
+
+[submodule "Marketplace"]
+	path = Week 4/marketplace/marketplace
+	url = https://github.com/bhavya0911/Marketplace
